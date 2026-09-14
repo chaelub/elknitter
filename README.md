@@ -73,5 +73,3 @@ an `io.Reader` is read in full before matching starts.
 ```sh
 go test ./... -race -count=1
 ```
-
-The specification and the tasks live in `openspec/changes/erlang-binary-match/`.
